@@ -1,0 +1,2 @@
+el sistema de php no cuenta con validaciones en los campos de todos los formularios
+queda pendiente como mejora para el sitio, al igual que relacionar las tablas.
